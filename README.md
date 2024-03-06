@@ -5,7 +5,7 @@
 -->
 
 <div id="header" align="center">
-    <img src="https://media2.giphy.com/media/l4Y6twC1cOfLIfvb4n/giphy.gif?cid=ecf05e47gez85v0yx37thkgjdam7svv4t5p7f5gj6bs8md36&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300"/> 
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTNoeTA5OTVnZzlzcmp2MW8xZjVkaXV3Y3B4c245b3RrOGxqdW1tZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12B39IawiNS7QI/giphy.gif" width="300"/> 
 </div>
 
 <div id="badges" align="center">
@@ -20,7 +20,7 @@
 
 <h1>
   Hey There, I'm Manoj
-  <img src="https://giphy.com/gifs/hello-neilsanders-theboogley-EKrFksrzxQxlb5ahiq" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 
